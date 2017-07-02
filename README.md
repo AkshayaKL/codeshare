@@ -15,7 +15,7 @@ Step 6-Open dbs.php(one of the files here is named dbs.php)and change root as yo
 
 Step 7-In phpMyadmin,under database myDB,create a table named user
 
-Step 8-See file named table for table details
+Step 8-See file named table.sql for table details
  
 
 Step 9-All the libraries are included in the repository
